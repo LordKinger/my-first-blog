@@ -25,7 +25,7 @@ SECRET_KEY = 'zskf3t-mxt6hx(mf6xv0_ru*pbn_)l3%x)=zmso^d$44url!%d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'devan.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'lordkinger.pythonanywhere.com']
 
 
 # Application definition
